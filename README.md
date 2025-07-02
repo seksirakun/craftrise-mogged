@@ -9,9 +9,8 @@
 
 ## 🧩 Özellikler
 
-- ✅ **Jar modifikasyonu** desteği
 - ✅ Fixsiz (2024 uyumlu) kod tabanı
-- ✅ Minecraft CraftRise istemcisine özel mimari
+- ✅ CraftRise istemcisine özel mimari
 
 ## 🚀 Başlarken
 
