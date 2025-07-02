@@ -9,7 +9,7 @@
 
 ## 🧩 Özellikler
 
-- ✅ Fixsiz (2024 uyumlu) kod tabanı
+- ✅ Kolay kod tabanı
 - ✅ CraftRise istemcisine özel mimari
 
 ## 🚀 Başlarken
