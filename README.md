@@ -2,6 +2,7 @@
 # ☠️ Mogged-CraftRise 
 
 > – Bir Z Kuşağı Minecraftçısı
+
 > – Bir ChatGPT Üstadı
 
 
