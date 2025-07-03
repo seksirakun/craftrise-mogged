@@ -5,6 +5,7 @@
 
 > – Bir ChatGPT Üstadı
 
+> – Bir DeepSeek Üstadı
 
 ## ⚙️ Hakkında
 
