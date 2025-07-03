@@ -2,6 +2,8 @@
 # ☠️ Mogged-CraftRise 
 
 > – Bir Z Kuşağı Minecraftçısı
+> – Bir ChatGPT Üstadı
+
 
 ## ⚙️ Hakkında
 
@@ -19,10 +21,11 @@
 - Java 8 veya üzeri ☕  
 - Maven veya Gradle (isteğe bağlı)
 - IDE (IntelliJ IDEA tavsiye edilir)
-- C++
+- C++ Redist & Visual Studio
 
 ### Kurulum
 
 ```bash
 git clone https://github.com/seksirakun48/craftrise-mogged.git
 cd Mogged-CraftRise
+```
