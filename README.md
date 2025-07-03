@@ -25,4 +25,3 @@
 ```bash
 git clone https://github.com/seksirakun48/craftrise-mogged.git
 cd Mogged-CraftRise
-javac -cp "libs/*" -d out src/**/*.java
