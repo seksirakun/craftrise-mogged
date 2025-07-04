@@ -7,6 +7,8 @@
 
 > – Bir DeepSeek Üstadı
 
+> – Bir Cheat Engine Üstadı
+
 ## ⚙️ Hakkında
 
 **Mogged-CraftRise**, CraftRise istemcisine *adanalı ayarı çekilmiş* bir projedir. Bu proje, CraftRise dosyalarının mogglanmış halini içerir ve bazı özelliklerle güçlendirilmiştir.
